@@ -81,10 +81,3 @@ This project is educational and follows the examples from *The Rust Programming 
 ```
 
 ---
-
-### ✅ Notes for You (Orkhan):
-- Replace `your-username` in the clone URL with your actual GitHub username.
-- This `README.md` aligns with your preference for **structured, clear, and reusable educational content**.
-- You can place this file in the root of your `guessing_game` repository alongside `Cargo.toml` and `src/`.
-
-Would you like a version that includes badges (e.g., build status, license), or instructions for contributors/reviewers?
