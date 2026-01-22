@@ -1,10 +1,6 @@
 # GuessingGame
 Turbine \ Rust Lang \ Guessing Game Project
 
-Here’s a clean, professional **`README.md`** file tailored for your GitHub repository based on the official [Rust Book – Chapter 2: Programming a Guessing Game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html):
-
----
-
 ```markdown
 # 🎲 Rust Guessing Game
 
